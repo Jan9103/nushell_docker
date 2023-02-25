@@ -5,7 +5,7 @@
 	license: 'MIT'
 	url: 'https://github.com/jan9103/nushell_docker'
 	min_packer_version: [0 2 0]
-	max_packer_version: [0 3 0]
+	max_packer_version: [0 4 0]
 	prefixed_modules: ['docker']
 }
 # vim: ft=nu
